@@ -19,19 +19,13 @@
 <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
 <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" /></div>---
 
-📚 CURRENTLY LEARNING
+📖 CURRENTLY LEARNING
 
-C++            █████████░░
-Algorithms     ████████░░░
-PHP            █████████░░
-JavaScript     ███████░░░░
-Java           ██████░░░░░
-Dart           ██████░░░░░
-MySQL          ████████░░░
+<div align="center"><img src="https://skillicons.dev/icons?i=cpp,js,java,dart,mysql&theme=dark" /><br><br>
 
-«Still learning, still improving. No rush to master everything at once.»
+"Programming Fundamentals" · "Algorithms" · "Database" · "Software Engineering"
 
----
+</div>---
 
 🚀 PROJECTS
 
