@@ -1,10 +1,6 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=CODED%20BY%20MAUL&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descSize=18&descAlignY=58&descColor=E2E8F0" width="100%"/><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Maul+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%92%BB;Learning+%7C+Building+%7C+Improving;Future+Software+Engineer+%F0%9F%9A%80" /><br><br>
 
-<a href="https://github.com/codedbymaul">
-<img src="https://img.shields.io/badge/GitHub-codedbymaul-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://polindra.ac.id/">
-<img src="https://img.shields.io/badge/Student-Polindra-2563EB?style=for-the-badge"/>
-</a></div>---
+<img src="https://komarev.com/ghpvc/?username=codedbymaul&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/></div>---
 
 👨‍💻 "$ whoami"
 
@@ -71,9 +67,9 @@ Building in progress... 🚧
 
 📊 GitHub Analytics
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=codedbymaul&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbymaul&layout=compact&theme=tokyonight&hide_border=true" height="180"/><br><br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=codedbymaul&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800" width="48%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbymaul&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800" width="40%"/><br><br>
 
-<img src="https://streak-stats.demolab.com?user=codedbymaul&theme=tokyonight&hide_border=true&border_radius=10" /></div>---
+<img src="https://streak-stats.demolab.com/?user=codedbymaul&theme=tokyonight&hide_border=true" width="70%"/></div>---
 
 🐍 Contribution Activity
 
