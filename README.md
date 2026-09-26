@@ -16,7 +16,20 @@
 
 ⚡ Tech Stack
 
-<div align="center"><img src="https://skillicons.dev/icons?i=cpp,php,html,css,mysql,git,github,vscode,bootstrap&perline=9" /></div>---
+<div align="center">💻 Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,php,html,css,js,java,dart&perline=7" /><br><br>
+
+🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql&perline=1" /><br><br>
+
+🛠️ Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=vscode&perline=1" /><br><br>
+
+<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
+<img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" /></div>---
 
 🚀 What I'm Building
 
@@ -30,7 +43,7 @@ PHP · MySQL · Bootstrap
 
 </td><td width="50%">💻 C++ Exercises
 
-Programming exercises focused on fundamentals, algorithms, and problem solving.
+Programming exercises focused on programming fundamentals, algorithms, and problem solving.
 
 C++ · Algorithms
 
@@ -54,43 +67,31 @@ Building in progress... 🚧
 
 🧠 Currently Learning
 
-<div align="center">"C++"　"Algorithms"　"PHP"　"MySQL"　"Git"　"GitHub"　"Software Engineering"
+<div align="center">"C++"　"Algorithms"　"PHP"　"JavaScript"　"Java"　"Dart"　"MySQL"
 
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=800&color=94A3B8&center=true&vCenter=true&width=500&lines=Learning+something+new+every+day...;Building+one+project+at+a+time...;Improving+one+line+of+code+at+a+time..." /></div>---
 
-📊 GitHub Analytics
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=codedbymaul&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800" width="48%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbymaul&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800" width="40%"/><br><br>
-
-<img src="https://streak-stats.demolab.com/?user=codedbymaul&theme=tokyonight&hide_border=true" width="70%"/></div>---
-
-🐍 Contribution Activity
-
-<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/></div>---
-
 🌱 2026 Journey
 
-SMK
- │
- ├── Web Development
- ├── PHP + MySQL
- └── Junior Coder
-       │
-       ▼
-🎓 POLINDRA
-       │
-       ├── C++
-       ├── Algorithms
-       ├── Software Engineering
-       ├── Database
-       └── Git & GitHub
-              │
-              ▼
-        🚀 SOFTWARE ENGINEER
+<div align="center">🏫 SMK
 
----
+Web Development · PHP · MySQL · Junior Coder
+
+⬇️
+
+🎓 POLINDRA — RPL
+
+C++ · Algorithms · Software Engineering · Database
+
+⬇️
+
+🚀 Goal
+
+Software Engineer
+
+</div>---
 
 🎯 Goals
 
@@ -103,6 +104,10 @@ SMK
 - [ ] Become a Software Engineer
 
 ---
+
+🐍 Contribution Activity
+
+<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/></div>---
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;See+you+in+the+next+commit+%F0%9F%98%8E;Keep+coding+%F0%9F%92%BB%E2%9C%A8" /><br><br>
 
