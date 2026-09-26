@@ -2,22 +2,17 @@
 
 <img src="https://komarev.com/ghpvc/?username=codedbymaul&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/></div>---
 
-👨‍💻 "$ whoami"
+👋 About Me
 
-Name        : Maul
-Role        : Software Engineering Student
-University  : Politeknik Negeri Indramayu
-Major       : Rekayasa Perangkat Lunak
-Location    : Indonesia 🇮🇩
-Focus       : Software Engineering
-Status      : Learning & Building 🚀
-Goal        : Software Engineer
+<div align="center">🎓 Software Engineering Student
+🏫 Politeknik Negeri Indramayu
+💻 Rekayasa Perangkat Lunak (RPL)
+🇮🇩 Indonesia
+🚀 Aspiring Software Engineer
 
-I'm currently exploring the world of software development, strengthening my programming fundamentals, and building projects along the way.
+<br>«Learning to build software, one line of code at a time.»
 
-«Code. Learn. Break. Fix. Repeat.»
-
----
+</div>---
 
 ⚡ Tech Stack
 
