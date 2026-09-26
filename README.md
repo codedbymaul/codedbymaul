@@ -8,15 +8,13 @@
 
 <div align="center"><img src="https://img.shields.io/badge/01%20%2F%20ABOUT%20ME-22D3EE?style=for-the-badge&logoColor=white" /></div><br><table>
 <tr>
-<td width="55%" valign="top">👋 Hey, I'm Maul
+<td width="55%" valign="top">👋 Hello, I'm Alief Maulana Rachmat
 
-I'm a Software Engineering student at Politeknik Negeri Indramayu.
+You can call me Maul.
 
-Currently exploring the world of programming, software engineering, algorithms, and databases while building my foundation step by step.
+I'm a Software Engineering student at Politeknik Negeri Indramayu, currently learning and exploring programming, software engineering, algorithms, and databases.
 
-I'm not trying to know everything at once.
-
-I'm here to keep learning, keep building, and keep improving.
+I'm still at the beginning of my journey, but I'm excited to keep learning, building projects, and improving my skills step by step.
 
 </td><td width="45%" valign="top">🧑‍💻 PROFILE
 
@@ -26,7 +24,10 @@ Rekayasa Perangkat Lunak
 🏫 Campus
 Politeknik Negeri Indramayu
 
-🌎 Location
+💻 Field
+Software Engineering
+
+🌎 Country
 Indonesia
 
 🚀 Goal
@@ -62,10 +63,10 @@ Always Learning
 
 <img src="https://skillicons.dev/icons?i=cpp,js,java,dart,mysql&theme=dark" /><br><br>
 
-<img src="https://img.shields.io/badge/PROGRAMMING%20FUNDAMENTALS-0f172a?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/ALGORITHMS-0f172a?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/DATABASE-0f172a?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-0f172a?style=flat-square&logoColor=white" /></div>---
+<img src="https://img.shields.io/badge/PROGRAMMING%20FUNDAMENTALS-0f172a?style=flat-square" />
+<img src="https://img.shields.io/badge/ALGORITHMS-0f172a?style=flat-square" />
+<img src="https://img.shields.io/badge/DATABASE-0f172a?style=flat-square" />
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-0f172a?style=flat-square" /></div>---
 
 <div align="center"><img src="https://img.shields.io/badge/04%20%2F%20PROJECTS-22D3EE?style=for-the-badge&logo=github&logoColor=white" /></div><br><table>
 <tr>
@@ -182,9 +183,9 @@ while (alive) {
 
 <div align="center">🌌 KEEP BUILDING. KEEP LEARNING.
 
-<br><img src="https://img.shields.io/badge/CODE-020617?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/LEARN-0f172a?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/BUILD-164e63?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/REPEAT-22D3EE?style=for-the-badge&logoColor=white" /><br><br>
+<br><img src="https://img.shields.io/badge/CODE-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LEARN-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILD-164e63?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REPEAT-22D3EE?style=for-the-badge" /><br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:164e63,100:020617&height=140&section=footer" width="100%"/></div>
