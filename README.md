@@ -2,9 +2,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=codedbymaul&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/></div>---
 
-👋 About Me
+👋 "ABOUT ME"
 
-<div align="center">🎓 Software Engineering Student
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=60A5FA&center=true&vCenter=true&width=420&lines=%3C+Who+am+I%3F+%2F%3E;%3C+Just+a+student+who+loves+code+%2F%3E;%3C+Learning+to+build+software+%2F%3E" /><br><br>
+
+🎓 Software Engineering Student
 🏫 Politeknik Negeri Indramayu
 💻 Rekayasa Perangkat Lunak (RPL)
 🇮🇩 Indonesia
@@ -14,9 +16,11 @@
 
 </div>---
 
-⚡ Tech Stack
+⚡ "TECH STACK"
 
-<div align="center">💻 Languages
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=60A5FA&center=true&vCenter=true&width=400&lines=%3C+My+Tech+Stack+%2F%3E;%3C+Languages+I+Use+%2F%3E;%3C+Tools+I+Work+With+%2F%3E" /><br><br>
+
+💻 Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,php,html,css,js,java,dart&perline=7" /><br><br>
 
@@ -31,9 +35,9 @@
 <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
 <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" /></div>---
 
-🚀 What I'm Building
+🚀 "WHAT I'M BUILDING"
 
-<table align="center">
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=7C3AED&center=true&vCenter=true&width=450&lines=%3E+Projects+in+Progress...;%3E+Turning+Ideas+into+Code...;%3E+Building+Something+New..." /></div><table align="center">
 <tr>
 <td width="50%">🛒 Toko Sembako
 
@@ -65,17 +69,19 @@ Building in progress... 🚧
 </tr>
 </table>---
 
-🧠 Currently Learning
+🧠 "CURRENTLY LEARNING"
 
-<div align="center">"C++"　"Algorithms"　"PHP"　"JavaScript"　"Java"　"Dart"　"MySQL"
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=22C55E&center=true&vCenter=true&width=450&lines=%3E%3E+Learning+Mode+ON;%3E%3E+One+Step+at+a+Time;%3E%3E+Keep+Learning%2C+Keep+Building" /><br><br>
 
-<br><br>
+"C++"　"Algorithms"　"PHP"　"JavaScript"　"Java"　"Dart"　"MySQL"
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=800&color=94A3B8&center=true&vCenter=true&width=500&lines=Learning+something+new+every+day...;Building+one+project+at+a+time...;Improving+one+line+of+code+at+a+time..." /></div>---
+</div>---
 
-🌱 2026 Journey
+🌱 "2026 JOURNEY"
 
-<div align="center">🏫 SMK
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=F59E0B&center=true&vCenter=true&width=450&lines=SMK+%E2%86%92+POLINDRA;Learning+%E2%86%92+Building;Student+%E2%86%92+Software+Engineer" /><br><br>
+
+🏫 SMK
 
 Web Development · PHP · MySQL · Junior Coder
 
@@ -93,9 +99,9 @@ Software Engineer
 
 </div>---
 
-🎯 Goals
+🎯 "GOALS"
 
-- [ ] Master programming fundamentals
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=EC4899&center=true&vCenter=true&width=450&lines=%3E+Keep+Growing;%3E+Keep+Building;%3E+Keep+Learning;%3E+Become+a+Software+Engineer" /></div>- [ ] Master programming fundamentals
 - [ ] Build more real-world projects
 - [ ] Improve problem-solving skills
 - [ ] Learn backend development
@@ -105,9 +111,11 @@ Software Engineer
 
 ---
 
-🐍 Contribution Activity
+🐍 "CONTRIBUTION ACTIVITY"
 
-<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/></div>---
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=06B6D4&center=true&vCenter=true&width=450&lines=%3E+Every+Commit+Counts...;%3E+Keep+Pushing...;%3E+Keep+Coding..." /><br><br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/></div>---
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;See+you+in+the+next+commit+%F0%9F%98%8E;Keep+coding+%F0%9F%92%BB%E2%9C%A8" /><br><br>
 
