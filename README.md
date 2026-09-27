@@ -1,40 +1,53 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,100:164e63&height=260&section=header&text=MAUL&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20STUDENT%20%7C%20POLINDRA&descAlignY=58&descSize=18" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Maul+%F0%9F%91%8B;Software+Engineering+Student;Code.+Learn.+Build.+Repeat.;Aspiring+Software+Engineer." /><br><br>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,45:0f172a,100:155e75&height=280&section=header&text=MAUL&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20POLINDRA&descAlignY=58&descSize=18" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Maul+%F0%9F%91%8B;Software+Engineering+Student;Learning+to+Build+Software;Code+%7C+Learn+%7C+Build+%7C+Repeat" /><br><br>
 
-<img src="https://img.shields.io/badge/🇮🇩%20INDONESIA-020617?style=for-the-badge&labelColor=0f172a" />
-<img src="https://img.shields.io/badge/🎓%20POLINDRA-164e63?style=for-the-badge&labelColor=0f172a" />
-<img src="https://img.shields.io/badge/💻%20RPL-164e63?style=for-the-badge&labelColor=0f172a" /><br><br>
+<img src="https://img.shields.io/badge/ALIEF%20MAULANA%20RACHMAT-0f172a?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/RPL-155e75?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/POLINDRA-155e75?style=for-the-badge&labelColor=020617" /><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=codedbymaul&label=PROFILE%20VIEWS&color=164e63&style=for-the-badge" /></div>---
+<img src="https://komarev.com/ghpvc/?username=codedbymaul&label=PROFILE%20VIEWS&color=155e75&style=for-the-badge" /></div>---
 
-<div align="center"><img src="https://img.shields.io/badge/01%20%2F%20ABOUT%20ME-22D3EE?style=for-the-badge&logoColor=white" /></div><br><table>
+<div align="center">👨‍💻 ABOUT ME
+
+</div><table>
 <tr>
-<td width="55%" valign="top">👋 Hello, I'm Alief Maulana Rachmat
+<td width="58%" valign="top">const maul = {
 
-You can call me Maul.
+    name: "Alief Maulana Rachmat",
+    nickname: "Maul",
 
-I'm a Software Engineering student at Politeknik Negeri Indramayu, currently learning and exploring programming, software engineering, algorithms, and databases.
+    role: "RPL Student",
+    campus: "Politeknik Negeri Indramayu",
 
-I'm still at the beginning of my journey, but I'm excited to keep learning, building projects, and improving my skills step by step.
+    major: "Rekayasa Perangkat Lunak",
+    field: "Software Engineering",
 
-</td><td width="45%" valign="top">🧑‍💻 PROFILE
+    currently: [
+        "Learning C++",
+        "Studying Algorithms",
+        "Exploring Databases",
+        "Building Projects"
+    ],
 
-🎓 Major
-Rekayasa Perangkat Lunak
+    goal: "Software Engineer",
 
-🏫 Campus
-Politeknik Negeri Indramayu
+    mindset:
+        "Learn. Build. Improve."
+};
 
-💻 Field
-Software Engineering
+</td><td width="42%" valign="top">🧑‍💻 A LITTLE ABOUT ME
 
-🌎 Country
-Indonesia
+🎓 Software Engineering Student
+🏫 Politeknik Negeri Indramayu
+💻 RPL — Teknik Informatika
+🇮🇩 Indonesia
 
-🚀 Goal
-Software Engineer
+<br>🌱 CURRENTLY
 
-📚 Status
-Always Learning
+Learning programming fundamentals, algorithms, databases, and software engineering while adapting to college life.
+
+<br>🚀 DREAM
+
+Become a Software Engineer
 
 </td>
 </tr>
@@ -42,7 +55,11 @@ Always Learning
 
 </div>---
 
-<div align="center"><img src="https://img.shields.io/badge/02%20%2F%20TECH%20STACK-22D3EE?style=for-the-badge&logo=codeforces&logoColor=white" /><br><br>
+<div align="center">🔗 CONNECT WITH ME
+
+<img src="https://img.shields.io/badge/GitHub-codedbymaul-181717?style=for-the-badge&logo=github&logoColor=white" /></div>---
+
+<div align="center">🧰 TECH STACK
 
 💻 LANGUAGES
 
@@ -59,119 +76,151 @@ Always Learning
 <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
 <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" /></div>---
 
-<div align="center"><img src="https://img.shields.io/badge/03%20%2F%20CURRENTLY%20LEARNING-22D3EE?style=for-the-badge&logo=bookstack&logoColor=white" /><br><br>
+<div align="center">📚 CURRENTLY LEARNING
 
 <img src="https://skillicons.dev/icons?i=cpp,js,java,dart,mysql&theme=dark" /><br><br>
 
-<img src="https://img.shields.io/badge/PROGRAMMING%20FUNDAMENTALS-0f172a?style=flat-square" />
-<img src="https://img.shields.io/badge/ALGORITHMS-0f172a?style=flat-square" />
-<img src="https://img.shields.io/badge/DATABASE-0f172a?style=flat-square" />
-<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-0f172a?style=flat-square" /></div>---
+<img src="https://img.shields.io/badge/PROGRAMMING%20FUNDAMENTALS-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ALGORITHMS-0f172a?style=for-the-badge" /><br><img src="https://img.shields.io/badge/DATABASE-155e75?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-155e75?style=for-the-badge" /></div>---
 
-<div align="center"><img src="https://img.shields.io/badge/04%20%2F%20PROJECTS-22D3EE?style=for-the-badge&logo=github&logoColor=white" /></div><br><table>
-<tr>
-<td width="50%" valign="top">🛒 Toko Sembako
+<div align="center">🚀 WHAT I'M BUILDING
 
-A web-based store project created during my vocational school journey.
+</div><table>
+<tr><td width="50%" valign="top">🛒 Toko Sembako
 
-Stack
+My vocational school web project.
 
-"PHP" "MySQL" "HTML" "CSS" "JavaScript"
+PHP
+MySQL
+HTML
+CSS
+JavaScript
 
-Focus
+Focus:
 
-Web Development · Database · CRUD
+"Web Development" · "CRUD" · "Database"
 
 </td><td width="50%" valign="top">💻 C++ Exercises
 
-A collection of programming exercises to strengthen my fundamentals.
+Small programs to strengthen my programming fundamentals.
 
-Topics
+Variables
+Input / Output
+Conditions
+Loops
 
-"Variables" "Input/Output" "Conditionals" "Loops"
+Focus:
 
-Focus
+"Logic" · "Algorithms" · "Problem Solving"
 
-Logic · Algorithms · Problem Solving
+</td></tr><tr><td width="50%" valign="top">🎓 College Projects
 
-</td>
-</tr><tr>
-<td width="50%" valign="top">🎓 College Projects
+Projects and assignments from my journey at POLINDRA.
 
-Projects and assignments from my journey as an RPL student at POLINDRA.
+C++
+Algorithms
+Database
+Software Engineering
 
-Exploring
+</td><td width="50%" valign="top">🔮 More Coming Soon
 
-"C++" "Algorithms" "Database" "Software Engineering"
+I'm still at the beginning of my journey.
 
-</td><td width="50%" valign="top">🔜 More To Come
-
-Still at the beginning of the journey.
-
-More projects, experiments, and ideas will be added as I continue learning.
-
-Status
+More projects will appear as I learn and experiment with new things.
 
 "Learning → Building → Improving"
+
+</td></tr>
+</table>---
+
+<div align="center">🛤️ MY JOURNEY
+
+<br><table>
+<tr><td align="center" width="33%">🏫
+
+SMK RPL
+
+Web Development
+PHP · MySQL
+Junior Coder
+
+</td><td align="center" width="33%">🎓
+
+POLINDRA
+
+RPL
+C++ · Algorithms
+Database · SE
+
+</td><td align="center" width="33%">🚀
+
+FUTURE
+
+Software Engineer
+
+Build useful things.
+Keep learning.
+
+</td></tr>
+</table></div>---
+
+<div align="center">🍳 BEYOND THE CODE
+
+</div><table>
+<tr>
+<td align="center" width="33%">🍳
+
+COOKING
+
+I enjoy cooking and
+experimenting with food.
+
+</td><td align="center" width="33%">🎵
+
+MUSIC
+
+Music is one of my
+favorite ways to relax.
+
+</td><td align="center" width="33%">🏛️
+
+JAVANESE CULTURE
+
+Interested in Javanese
+history and culture.
 
 </td>
 </tr>
 </table>---
 
-<div align="center"><img src="https://img.shields.io/badge/05%20%2F%20MY%20JOURNEY-22D3EE?style=for-the-badge&logo=roadmap&logoColor=white" /></div><br><div align="center"><table>
-<tr>
-<td align="center" width="33%">🏫 SMK
+<div align="center">🎯 GOALS
 
-RPL
-
-PHP · MySQL
-Web Development
-Junior Coder
-
-</td><td align="center" width="33%">🎓 NOW
-
-POLINDRA
-
-C++ · Algorithms
-Database
-Software Engineering
-
-</td><td align="center" width="33%">🚀 NEXT
-
-SOFTWARE ENGINEER
-
-Build
-Learn
-Improve
-
-</td>
-</tr>
-</table></div>---
-
-<div align="center"><img src="https://img.shields.io/badge/06%20%2F%20GOALS-22D3EE?style=for-the-badge&logo=target&logoColor=white" /><br><br>
-
-<table>
+<br><table>
 <tr>
 <td>🧠</td>
-<td><b>Master Programming Fundamentals</b><br>Build a strong foundation before going further.</td>
+<td><b>Strengthen Programming Fundamentals</b></td>
 </tr><tr>
 <td>💡</td>
-<td><b>Improve Problem Solving</b><br>Learn to approach problems logically and systematically.</td>
+<td><b>Improve Logical & Problem-Solving Skills</b></td>
 </tr><tr>
 <td>💻</td>
-<td><b>Build Real Projects</b><br>Turn what I learn into something useful.</td>
+<td><b>Build More Real-World Projects</b></td>
 </tr><tr>
 <td>🗄️</td>
-<td><b>Understand Backend & Databases</b><br>Go deeper into how software works behind the interface.</td>
+<td><b>Understand Backend & Databases</b></td>
+</tr><tr>
+<td>🌱</td>
+<td><b>Keep Learning New Technologies</b></td>
 </tr><tr>
 <td>🚀</td>
-<td><b>Become a Software Engineer</b><br>Keep learning until I can build meaningful software.</td>
+<td><b>Become a Software Engineer</b></td>
 </tr>
 </table></div>---
 
-<div align="center"><img src="https://img.shields.io/badge/07%20%2F%20MINDSET-22D3EE?style=for-the-badge&logo=github&logoColor=white" /><br><br>
+<div align="center">💭 MY MINDSET
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=4000&pause=1500&color=22D3EE&center=true&vCenter=true&width=650&lines=Learn+something+new.;Build+something+useful.;Break+something.;Fix+it.;Repeat." /><br><br>
+<br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Learn+something+new.;Build+something+useful.;Make+mistakes.;Fix+them.;Keep+going." /><br><br>
 
 while (alive) {
     learn();
@@ -181,11 +230,13 @@ while (alive) {
 
 </div>---
 
-<div align="center">🌌 KEEP BUILDING. KEEP LEARNING.
+<div align="center">🌌 KEEP BUILDING
 
 <br><img src="https://img.shields.io/badge/CODE-020617?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LEARN-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BUILD-164e63?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILD-155e75?style=for-the-badge" />
 <img src="https://img.shields.io/badge/REPEAT-22D3EE?style=for-the-badge" /><br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164e63,100:020617&height=140&section=footer" width="100%"/></div>
+Thanks for stopping by. 👋
+
+<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:155e75,100:020617&height=150&section=footer" width="100%"/></div>
