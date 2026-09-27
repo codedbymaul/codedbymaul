@@ -1,226 +1,215 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,45:0f172a,100:155e75&height=280&section=header&text=MAUL&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20POLINDRA&descAlignY=58&descSize=18" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Maul+%F0%9F%91%8B;Software+Engineering+Student;Learning+to+Build+Software;Code+%7C+Learn+%7C+Build+%7C+Repeat" /><br><br>
 
-<img src="https://img.shields.io/badge/ALIEF%20MAULANA%20RACHMAT-0f172a?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/RPL-155e75?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/POLINDRA-155e75?style=for-the-badge&labelColor=020617" /><br><br>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:111827,100:164E63&height=230&section=header&text=MAUL&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20STUDENT&descSize=16&descAlignY=62" width="100%"/><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3500&pause=1500&color=22D3EE&center=true&vCenter=true&width=600&lines=Alief+Maulana+Rachmat;RPL+Student+at+POLINDRA;Learning+to+build+software." /></div>---
 
-<img src="https://komarev.com/ghpvc/?username=codedbymaul&label=PROFILE%20VIEWS&color=155e75&style=for-the-badge" /></div>---
-
-<div align="center">👨‍💻 ABOUT ME
+<div align="center">"01 / ABOUT"
 
 </div><table>
 <tr>
-<td width="58%" valign="top">const maul = {
+<td width="60%" valign="top">Alief Maulana Rachmat
 
-    name: "Alief Maulana Rachmat",
-    nickname: "Maul",
+Maul for short.
 
-    role: "RPL Student",
-    campus: "Politeknik Negeri Indramayu",
+I'm a Software Engineering student at Politeknik Negeri Indramayu, currently building my foundation in programming, algorithms, databases, and software engineering.
 
-    major: "Rekayasa Perangkat Lunak",
-    field: "Software Engineering",
+I'm still learning, still experimenting, and still figuring things out.
 
-    currently: [
-        "Learning C++",
-        "Studying Algorithms",
-        "Exploring Databases",
-        "Building Projects"
-    ],
+That's part of the journey.
 
-    goal: "Software Engineer",
+</td><td width="40%" valign="top">STATUS
+────────────────
+🎓 RPL Student
 
-    mindset:
-        "Learn. Build. Improve."
-};
+CAMPUS
+────────────────
+Politeknik Negeri
+Indramayu
 
-</td><td width="42%" valign="top">🧑‍💻 A LITTLE ABOUT ME
+FOCUS
+────────────────
+Software Engineering
 
-🎓 Software Engineering Student
-🏫 Politeknik Negeri Indramayu
-💻 RPL — Teknik Informatika
-🇮🇩 Indonesia
-
-<br>🌱 CURRENTLY
-
-Learning programming fundamentals, algorithms, databases, and software engineering while adapting to college life.
-
-<br>🚀 DREAM
-
-Become a Software Engineer
+GOAL
+────────────────
+Software Engineer
 
 </td>
 </tr>
-</table><br><div align="center">«“Learning to build software, one line of code at a time.”»
+</table><br><div align="center">«Build small. Learn deeply. Keep going.»
 
 </div>---
 
-<div align="center">🔗 CONNECT WITH ME
+<div align="center">"02 / STACK"
 
-<img src="https://img.shields.io/badge/GitHub-codedbymaul-181717?style=for-the-badge&logo=github&logoColor=white" /></div>---
+</div><h3 align="center">Languages</h3><div align="center"><img src="https://skillicons.dev/icons?i=cpp,php,html,css,js,java,dart&theme=dark" /></div><h3 align="center">Database</h3><div align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></div><h3 align="center">Tools</h3><div align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /><br><br>
 
-<div align="center">🧰 TECH STACK
+<img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white" />
+<img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=sublimetext&logoColor=white" /></div>---
 
-💻 LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=cpp,php,html,css,js,java,dart&theme=dark" /><br><br>
-
-🗄️ DATABASE
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" /><br><br>
-
-🛠️ TOOLS
-
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" /><br><br>
-
-<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
-<img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" /></div>---
-
-<div align="center">📚 CURRENTLY LEARNING
-
-<img src="https://skillicons.dev/icons?i=cpp,js,java,dart,mysql&theme=dark" /><br><br>
-
-<img src="https://img.shields.io/badge/PROGRAMMING%20FUNDAMENTALS-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ALGORITHMS-0f172a?style=for-the-badge" /><br><img src="https://img.shields.io/badge/DATABASE-155e75?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-155e75?style=for-the-badge" /></div>---
-
-<div align="center">🚀 WHAT I'M BUILDING
+<div align="center">"03 / CURRENTLY LEARNING"
 
 </div><table>
-<tr><td width="50%" valign="top">🛒 Toko Sembako
+<tr>
+<td width="25%" align="center">C++
 
-My vocational school web project.
+Programming
+Fundamentals
 
-PHP
+</td><td width="25%" align="center">Algorithms
+
+Logic
+Problem Solving
+
+</td><td width="25%" align="center">Database
+
 MySQL
-HTML
-CSS
-JavaScript
+Data Management
 
-Focus:
+</td><td width="25%" align="center">Software Engineering
 
-"Web Development" · "CRUD" · "Database"
+Development
+Process
+
+</td>
+</tr>
+</table><div align="center"><img src="https://skillicons.dev/icons?i=cpp,mysql&theme=dark" /></div>---
+
+<div align="center">"04 / SELECTED PROJECTS"
+
+</div><table>
+<tr>
+<td width="50%" valign="top">🛒 Toko Sembako
+
+A web-based store project from my vocational school journey.
+
+Built with
+
+"PHP" "MySQL" "HTML" "CSS" "JavaScript"
+
+Focus
+
+Web Development · CRUD · Database
 
 </td><td width="50%" valign="top">💻 C++ Exercises
 
-Small programs to strengthen my programming fundamentals.
+A collection of small programs created while strengthening my programming fundamentals.
 
-Variables
-Input / Output
-Conditions
-Loops
+Topics
 
-Focus:
+"Variables" "Input/Output"
+"Conditions" "Loops"
 
-"Logic" · "Algorithms" · "Problem Solving"
+Focus
 
-</td></tr><tr><td width="50%" valign="top">🎓 College Projects
+Logic · Algorithms · Problem Solving
 
-Projects and assignments from my journey at POLINDRA.
+</td>
+</tr><tr>
+<td width="50%" valign="top">🎓 College Projects
 
-C++
-Algorithms
-Database
-Software Engineering
+Assignments and projects from my journey as an RPL student at POLINDRA.
 
-</td><td width="50%" valign="top">🔮 More Coming Soon
+Exploring
 
-I'm still at the beginning of my journey.
+"C++" "Algorithms"
+"Database" "Software Engineering"
 
-More projects will appear as I learn and experiment with new things.
+</td><td width="50%" valign="top">🔭 Next Projects
 
-"Learning → Building → Improving"
+This section will grow along with my skills.
 
-</td></tr>
+More experiments, projects, and ideas are coming.
+
+Current direction
+
+"Learn → Build → Improve"
+
+</td>
+</tr>
 </table>---
 
-<div align="center">🛤️ MY JOURNEY
+<div align="center">"05 / JOURNEY"
 
-<br><table>
-<tr><td align="center" width="33%">🏫
+</div><br><div align="center"><table>
+<tr>
+<td align="center" width="30%">2025
+
+🏫
 
 SMK RPL
 
 Web Development
 PHP · MySQL
-Junior Coder
 
-</td><td align="center" width="33%">🎓
+</td><td align="center" width="5%">→
+
+</td><td align="center" width="30%">2026
+
+🎓
 
 POLINDRA
 
 RPL
 C++ · Algorithms
-Database · SE
 
-</td><td align="center" width="33%">🚀
+</td><td align="center" width="5%">→
 
-FUTURE
+</td><td align="center" width="30%">NEXT
 
-Software Engineer
+🚀
 
-Build useful things.
-Keep learning.
+SOFTWARE ENGINEER
 
-</td></tr>
+Build
+Learn
+Improve
+
+</td>
+</tr>
 </table></div>---
 
-<div align="center">🍳 BEYOND THE CODE
+<div align="center">"06 / BEYOND CODE"
 
 </div><table>
 <tr>
-<td align="center" width="33%">🍳
+<td width="33%" align="center">🍳
 
-COOKING
+Cooking
 
-I enjoy cooking and
-experimenting with food.
+One of the things I enjoy outside coding.
 
-</td><td align="center" width="33%">🎵
+</td><td width="33%" align="center">🎵
 
-MUSIC
+Music
 
-Music is one of my
-favorite ways to relax.
+A big part of how I spend my free time.
 
-</td><td align="center" width="33%">🏛️
+</td><td width="33%" align="center">🏛️
 
-JAVANESE CULTURE
+Javanese Culture
 
-Interested in Javanese
-history and culture.
+Interested in history, culture, and traditions.
 
 </td>
 </tr>
 </table>---
 
-<div align="center">🎯 GOALS
+<div align="center">"07 / GOALS"
 
-<br><table>
-<tr>
-<td>🧠</td>
-<td><b>Strengthen Programming Fundamentals</b></td>
-</tr><tr>
-<td>💡</td>
-<td><b>Improve Logical & Problem-Solving Skills</b></td>
-</tr><tr>
-<td>💻</td>
-<td><b>Build More Real-World Projects</b></td>
-</tr><tr>
-<td>🗄️</td>
-<td><b>Understand Backend & Databases</b></td>
-</tr><tr>
-<td>🌱</td>
-<td><b>Keep Learning New Technologies</b></td>
-</tr><tr>
-<td>🚀</td>
-<td><b>Become a Software Engineer</b></td>
-</tr>
-</table></div>---
+<br>"01" Strengthen programming fundamentals
 
-<div align="center">💭 MY MINDSET
+"02" Improve problem-solving skills
 
-<br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Learn+something+new.;Build+something+useful.;Make+mistakes.;Fix+them.;Keep+going." /><br><br>
+"03" Build meaningful projects
+
+"04" Understand software engineering deeply
+
+"05" Become a Software Engineer
+
+</div>---
+
+<div align="center">"08 / PHILOSOPHY"
+
+<br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1300&color=22D3EE&center=true&vCenter=true&width=600&lines=Learn+something+new.;Build+something+useful.;Make+mistakes.;Fix+them.;Keep+moving." /><br><br>
 
 while (alive) {
     learn();
@@ -230,13 +219,12 @@ while (alive) {
 
 </div>---
 
-<div align="center">🌌 KEEP BUILDING
+<div align="center"><br>MAUL
 
-<br><img src="https://img.shields.io/badge/CODE-020617?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LEARN-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BUILD-155e75?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REPEAT-22D3EE?style=for-the-badge" /><br><br>
+"codedbymaul"
 
-Thanks for stopping by. 👋
+<br><img src="https://img.shields.io/badge/LEARN-09090B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILD-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IMPROVE-164E63?style=for-the-badge" /><br><br>
 
-<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:155e75,100:020617&height=150&section=footer" width="100%"/></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,100:09090B&height=120&section=footer" width="100%"/></div>
