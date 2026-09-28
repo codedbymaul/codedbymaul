@@ -1,172 +1,293 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:164e63,100:0e7490&height=250&section=header&text=MAUL&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=62&descSize=18" width="100%"/><br><img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&size=19&duration=3200&pause=1400&color=67E8F9&center=true&vCenter=true&width=650&lines=Alief+Maulana+Rachmat;RPL+Student+%40+POLINDRA;Learning+%7C+Building+%7C+Improving" /><br><br>
+<!-- =========================
+     MAUL — GitHub Profile
+     Liquid Glass Edition
+     ========================= -->
 
-<img src="https://img.shields.io/badge/✦%20MAUL-ffffff?style=for-the-badge&labelColor=0f172a&color=164e63" />
-<img src="https://img.shields.io/badge/RPL-ffffff?style=for-the-badge&labelColor=0f172a&color=164e63" />
-<img src="https://img.shields.io/badge/POLINDRA-ffffff?style=for-the-badge&labelColor=0f172a&color=164e63" /></div><br><div align="center"><img src="https://img.shields.io/badge/━━━━━━━━%20ABOUT%20ME%20━━━━━━━━-0f172a?style=for-the-badge&labelColor=020617&color=164e63" /></div><br><table>
-<tr><td width="62%" valign="top">  Hello, I'm Maul
+<div align="center">
 
-Alief Maulana Rachmat
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1220,50:0F3040,100:123F4D&text=MAUL&fontSize=72&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=65&descSize=16&animation=fadeIn" width="100%"/>
 
-Software Engineering Student
+<br>
 
-I'm currently studying Rekayasa Perangkat Lunak at Politeknik Negeri Indramayu.
-
-My current journey revolves around programming, algorithms, databases, and software engineering.
-
-I enjoy learning things step by step, turning what I learn into small projects, and gradually becoming better at building software.
-
-<br>"Learning to build software, one line at a time."
-
-</td><td width="38%" valign="top">◉ PROFILE
-
-🎓 Education
-Politeknik Negeri Indramayu
-
-💻 Major
-Rekayasa Perangkat Lunak
-
-📍 Country
-Indonesia
-
-🚀 Goal
-Software Engineer
-
-🌱 Status
-Currently Learning
-
-</td></tr>
-</table><br><div align="center"><img src="https://img.shields.io/badge/✦%20CURRENTLY%20LEARNING-ffffff?style=for-the-badge&labelColor=164e63&color=0f172a" /><br><br>
-
-<img src="https://skillicons.dev/icons?i=cpp,js,java,dart,mysql&theme=dark" /><br><br>
-
-<img src="https://img.shields.io/badge/Programming%20Fundamentals-0f172a?style=for-the-badge&labelColor=164e63" />
-<img src="https://img.shields.io/badge/Algorithms-0f172a?style=for-the-badge&labelColor=164e63" />
-<img src="https://img.shields.io/badge/Database-0f172a?style=for-the-badge&labelColor=164e63" />
-<img src="https://img.shields.io/badge/Software%20Engineering-0f172a?style=for-the-badge&labelColor=164e63" /></div><br><div align="center"><img src="https://img.shields.io/badge/━━━━━━━━%20TECH%20STACK%20━━━━━━━━-0f172a?style=for-the-badge&labelColor=020617&color=164e63" /></div><br><table>
-<tr><td align="center" width="50%">💻 LANGUAGES
-
-<br><img src="https://skillicons.dev/icons?i=cpp,php,html,css,js,java,dart&theme=dark" /></td><td align="center" width="50%">🗄️ DATABASE
-
-<br><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /><br><br>
-
-🛠️ TOOLS
-
-<br><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /><br><br>
-
-<img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white" />
-<img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=sublimetext&logoColor=white" /></td></tr>
-</table><br><div align="center"><img src="https://img.shields.io/badge/✦%20SELECTED%20PROJECTS-ffffff?style=for-the-badge&labelColor=164e63&color=0f172a" /></div><br><table>
-<tr><td width="50%" valign="top">🛒 Toko Sembako
-
-«Web-based store project from my vocational school journey.»
-
-<br>STACK
-
-"PHP" · "MySQL"
-"HTML" · "CSS" · "JavaScript"
-
-<br>FOCUS
-
-Web Development · CRUD · Database
-
-</td><td width="50%" valign="top">💻 C++ Exercises
-
-«Small programs created while strengthening programming fundamentals.»
-
-<br>TOPICS
-
-"Variables" · "Input/Output"
-"Conditions" · "Loops"
-
-<br>FOCUS
-
-Logic · Algorithms · Problem Solving
-
-</td></tr><tr><td width="50%" valign="top">🎓 College Projects
-
-«Assignments and projects from my journey at POLINDRA.»
-
-<br>"C++" · "Algorithms"
-"Database" · "Software Engineering"
-
-</td><td width="50%" valign="top">✦ Coming Soon
-
-«More projects as I continue learning.»
-
-<br>"Learn" → "Build" → "Improve"
-
-</td></tr>
-</table><br><div align="center"><img src="https://img.shields.io/badge/━━━━━━━━%20MY%20JOURNEY%20━━━━━━━━-0f172a?style=for-the-badge&labelColor=020617&color=164e63" /><br><br>
-
-<table>
-<tr><td align="center" width="33%">🏫
-
-SMK RPL
-
-PHP
-MySQL
-Web Development
-
-</td><td align="center" width="33%">🎓
-
-POLINDRA
-
-RPL
-C++
-Algorithms
-Database
-
-</td><td align="center" width="33%">🚀
-
-NEXT
-
-Software
-Engineer
-
-</td></tr>
-</table></div><br><div align="center"><img src="https://img.shields.io/badge/✦%20BEYOND%20CODE-ffffff?style=for-the-badge&labelColor=164e63&color=0f172a" /><br><br>
-
-<table>
-<tr><td align="center" width="33%">🍳
-
-COOKING
-
-One of my favorite
-things outside coding.
-
-</td><td align="center" width="33%">🎵
-
-MUSIC
-
-Something I enjoy
-in my free time.
-
-</td><td align="center" width="33%">🏛️
-
-JAVANESE CULTURE
-
-Interested in history,
-culture & traditions.
-
-</td></tr>
-</table></div><br><div align="center"><img src="https://img.shields.io/badge/✦%20GOALS-ffffff?style=for-the-badge&labelColor=164e63&color=0f172a" /><br><br>
-
-<img src="https://img.shields.io/badge/01%20·%20Strong%20Fundamentals-0f172a?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/02%20·%20Better%20Problem%20Solving-0f172a?style=for-the-badge&labelColor=020617" /><br><img src="https://img.shields.io/badge/03%20·%20Build%20Real%20Projects-164e63?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/04%20·%20Understand%20Software%20Engineering-164e63?style=for-the-badge&labelColor=020617" /><br><img src="https://img.shields.io/badge/05%20·%20Become%20a%20Software%20Engineer-0e7490?style=for-the-badge&labelColor=020617" /></div><br><div align="center"><img src="https://img.shields.io/badge/━━━━━━━━%20MINDSET%20━━━━━━━━-0f172a?style=for-the-badge&labelColor=020617&color=164e63" /><br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&size=18&duration=3500&pause=1300&color=67E8F9&center=true&vCenter=true&width=600&lines=Learn+something+new.;Build+something+useful.;Make+mistakes.;Fix+them.;Keep+moving." /><br><br>
-
-while (alive) {
-    learn();
-    build();
-    improve();
-}
-
-</div><br><div align="center"><img src="https://img.shields.io/badge/MAUL-ffffff?style=for-the-badge&labelColor=020617&color=164e63" /><br><br>
-
-"codedbymaul"
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=8BE9FD&center=true&vCenter=true&width=520&lines=Alief+Maulana+Rachmat;RPL+Student+%40+POLINDRA;Learning+%7C+Building+%7C+Improving" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164e63,50:0e7490,100:020617&height=130&section=footer" width="100%"/></div>
+<img src="https://img.shields.io/badge/✦%20MAUL-101820?style=for-the-badge&labelColor=101820&color=123F4D"/>
+<img src="https://img.shields.io/badge/RPL-101820?style=for-the-badge&labelColor=101820&color=123F4D"/>
+<img src="https://img.shields.io/badge/POLINDRA-101820?style=for-the-badge&labelColor=101820&color=123F4D"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=codedbymaul&label=PROFILE%20VIEWS&color=123F4D&style=flat-square"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### `01 / ABOUT`
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Hello, I'm **Maul**
+
+**Alief Maulana Rachmat, buat you can call me Maul**
+
+Software Engineering Student  
+currently studying **Rekayasa Perangkat Lunak** at **Politeknik Negeri Indramayu**.
+
+I'm interested in understanding how software works from the fundamentals — from programming logic and algorithms to databases and software engineering.
+
+<br>
+
+`RPL` · `POLINDRA` · `INDONESIA`
+
+</td>
+
+<td width="40%" valign="top">
+
+### `PROFILE`
+
+**Education**  
+Politeknik Negeri Indramayu
+
+**Major**  
+Software Engineering 
+
+**Focus**  
+Software Engineering
+
+**Goal**  
+Software Engineer
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### `02 / CURRENTLY LEARNING`
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### C++
+
+Programming  
+Fundamentals
+
+</td>
+
+<td align="center" width="25%">
+
+### JavaScript
+
+Logic  
+& Web
+
+</td>
+
+<td align="center" width="25%">
+
+### Java
+
+Programming  
+Fundamentals
+
+</td>
+
+<td align="center" width="25%">
+
+### MySQL
+
+Database  
+Fundamentals
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### `03 / TECH STACK`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cpp,php,html,css,js,java,dart,mysql" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/VS%20Code-101820?style=for-the-badge&logo=visual-studio-code&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Laragon-101820?style=for-the-badge&logo=laragon&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Sublime%20Text-101820?style=for-the-badge&logo=sublimetext&logoColor=FF9800"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### `04 / SELECTED WORK`
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Toko Sembako
+
+Simple web-based  
+inventory / transaction project.
+
+`PHP` `MySQL` `HTML` `CSS`
+
+</td>
+
+<td width="50%" valign="top">
+
+### C++ Exercises
+
+Small programs created while  
+learning programming fundamentals.
+
+`C++` `Algorithms` `Logic`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### College Projects
+
+Academic projects from my  
+journey as an RPL student.
+
+`RPL` `Software Engineering`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Coming Soon
+
+More projects, experiments  
+and things I'm currently building.
+
+`Building...`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### `05 / JOURNEY`
+
+<br>
+
+`SMK RPL`  
+↓  
+`POLINDRA — RPL`  
+↓  
+`SOFTWARE ENGINEERING`  
+↓  
+`SOFTWARE ENGINEER`
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### `06 / BEYOND CODE`
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### Cooking
+
+Trying recipes,  
+experimenting in the kitchen.
+
+</td>
+
+<td align="center" width="33%">
+
+### Music
+
+Taylor Swift · Jannabi  
+and whatever fits the mood.
+
+</td>
+
+<td align="center" width="33%">
+
+### Javanese Culture
+
+History, traditions,  
+and cultural heritage.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### `07 / DIRECTION`
+
+> **Build strong fundamentals.**  
+> **Solve real problems.**  
+> **Keep building.**
+
+<br>
+
+<img src="https://img.shields.io/badge/PROGRAMMING-101820?style=flat-square&labelColor=123F4D"/>
+<img src="https://img.shields.io/badge/ALGORITHMS-101820?style=flat-square&labelColor=123F4D"/>
+<img src="https://img.shields.io/badge/DATABASE-101820?style=flat-square&labelColor=123F4D"/>
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-101820?style=flat-square&labelColor=123F4D"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=8BE9FD&center=true&vCenter=true&width=520&lines=while+(alive)+%7B+learn();+build();+improve();+%7D" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:123F4D,50:0F3040,100:0B1220&text=codedbymaul&fontSize=22&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
+
+</div>
