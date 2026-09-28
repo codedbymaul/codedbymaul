@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1220,50:0F3040,100:123F4D&text=MAUL&fontSize=72&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=65&descSize=16&animation=fadeIn" width="100%"/>
@@ -132,7 +131,7 @@ Fundamentals
 
 <br><br>
 
-<img src="https://img.shields.io/badge/VS%20Code-101820?style=for-the-badge&logo=visual-studio-code&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/VS%20Code-101820?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF"/>
 <img src="https://img.shields.io/badge/Laragon-101820?style=for-the-badge&logo=laragon&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Sublime%20Text-101820?style=for-the-badge&logo=sublimetext&logoColor=FF9800"/>
 
