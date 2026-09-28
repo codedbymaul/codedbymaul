@@ -1,7 +1,3 @@
-<!-- =========================
-     MAUL — GitHub Profile
-     Liquid Glass Edition
-     ========================= -->
 
 <div align="center">
 
@@ -37,18 +33,19 @@
 <tr>
 <td width="60%" valign="top">
 
-### Hello, I'm **Maul**
+### MAUL
 
-**Alief Maulana Rachmat, but you can call me Maul**
+**Alief Maulana Rachmat**
 
-Software Engineering Student  
-currently studying **Rekayasa Perangkat Lunak** at **Politeknik Negeri Indramayu**.
+Software Engineering Student
 
-I'm interested in understanding how software works from the fundamentals — from programming logic and algorithms to databases and software engineering.
+Currently studying **Rekayasa Perangkat Lunak**
+at **Politeknik Negeri Indramayu**.
 
-<br>
-
-`RPL` · `POLINDRA` · `INDONESIA`
+I'm interested in understanding how software
+works from the fundamentals — programming
+logic, algorithms, databases, and
+software engineering.
 
 </td>
 
@@ -60,7 +57,7 @@ I'm interested in understanding how software works from the fundamentals — fro
 Politeknik Negeri Indramayu
 
 **Major**  
-Software Engineering 
+Rekayasa Perangkat Lunak
 
 **Focus**  
 Software Engineering
@@ -232,6 +229,7 @@ and things I'm currently building.
 
 <table>
 <tr>
+
 <td align="center" width="33%">
 
 ### Cooking
@@ -258,6 +256,7 @@ History, traditions,
 and cultural heritage.
 
 </td>
+
 </tr>
 </table>
 
@@ -266,6 +265,8 @@ and cultural heritage.
 <div align="center">
 
 ### `07 / DIRECTION`
+
+<br>
 
 > **Build strong fundamentals.**  
 > **Solve real problems.**  
@@ -278,15 +279,15 @@ and cultural heritage.
 <img src="https://img.shields.io/badge/DATABASE-101820?style=flat-square&labelColor=123F4D"/>
 <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-101820?style=flat-square&labelColor=123F4D"/>
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=8BE9FD&center=true&vCenter=true&width=520&lines=while+(alive)+%7B+learn();+build();+improve();+%7D" />
+
 </div>
 
 <br>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=8BE9FD&center=true&vCenter=true&width=520&lines=while+(alive)+%7B+learn();+build();+improve();+%7D" />
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:123F4D,50:0F3040,100:0B1220&text=codedbymaul&fontSize=22&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
 
