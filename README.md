@@ -131,9 +131,17 @@ Fundamentals
 
 <br><br>
 
-<img src="https://img.shields.io/badge/VS%20Code-101820?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/Laragon-101820?style=for-the-badge&logo=laragon&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Sublime%20Text-101820?style=for-the-badge&logo=sublimetext&logoColor=FF9800"/>
+<img src="https://cdn.simpleicons.org/visualstudiocode/58A6FF" height="42"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/laragon/FFFFFF" height="42"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/sublimetext/FF9800" height="42"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/VS%20Code-101820?style=for-the-badge&labelColor=101820"/>
+<img src="https://img.shields.io/badge/Laragon-101820?style=for-the-badge&labelColor=101820"/>
+<img src="https://img.shields.io/badge/Sublime%20Text-101820?style=for-the-badge&labelColor=101820"/>
 
 </div>
 
