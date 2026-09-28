@@ -31,20 +31,20 @@
 
 <table>
 <tr>
+
 <td width="60%" valign="top">
 
-### MAUL
+### Hello, I'm Alief Maulana Rachmat
 
-**Alief Maulana Rachmat**
+but you can call me **Maul.**
 
-Software Engineering Student
-
-Currently studying **Rekayasa Perangkat Lunak**
+I'm a Software Engineering Student  
+currently studying **Rekayasa Perangkat Lunak**  
 at **Politeknik Negeri Indramayu**.
 
-I'm interested in understanding how software
-works from the fundamentals — programming
-logic, algorithms, databases, and
+I'm interested in understanding how software  
+works from the fundamentals — programming  
+logic, algorithms, databases, and  
 software engineering.
 
 </td>
@@ -66,6 +66,7 @@ Software Engineering
 Software Engineer
 
 </td>
+
 </tr>
 </table>
 
@@ -79,6 +80,7 @@ Software Engineer
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### C++
@@ -114,6 +116,7 @@ Database
 Fundamentals
 
 </td>
+
 </tr>
 </table>
 
