@@ -39,7 +39,7 @@
 
 ### Hello, I'm **Maul**
 
-**Alief Maulana Rachmat, buat you can call me Maul**
+**Alief Maulana Rachmat, but you can call me Maul**
 
 Software Engineering Student  
 currently studying **Rekayasa Perangkat Lunak** at **Politeknik Negeri Indramayu**.
