@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=8BE9FD&center=true&vCenter=true&width=520&lines=Alief+Maulana+Rachmat;RPL+Student+%40+POLINDRA;Learning+%7C+Building+%7C+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=8BE9FD&center=true&vCenter=true&width=520&lines=Alief+Maulana+Rachmat;RPL+Student+%40+POLINDRA;Building+Web+Apps+%7C+Exploring+Laravel" />
 
 <br><br>
 
@@ -41,10 +41,9 @@ I'm a Software Engineering Student
 currently studying **Rekayasa Perangkat Lunak**  
 at **Politeknik Negeri Indramayu**.
 
-I'm interested in understanding how software  
-works from the fundamentals — programming  
-logic, algorithms, databases, and  
-software engineering.
+I love turning ideas into functional web apps,  
+exploring modern frameworks like **Laravel**,  
+and understanding software logic from the ground up.
 
 </td>
 
@@ -59,7 +58,7 @@ Politeknik Negeri Indramayu
 Rekayasa Perangkat Lunak
 
 **Focus**  
-Software Engineering
+Web Development & Software Engineering
 
 **Goal**  
 Software Engineer
@@ -73,7 +72,7 @@ Software Engineer
 
 <div align="center">
 
-### `02 / CURRENTLY LEARNING`
+### `02 / CURRENTLY LEARNING & EXPLORING`
 
 </div>
 
@@ -82,10 +81,10 @@ Software Engineer
 
 <td align="center" width="25%">
 
-### C++
+### Laravel
 
-Programming  
-Fundamentals
+Web Development  
+& Ecosystem
 
 </td>
 
@@ -93,26 +92,26 @@ Fundamentals
 
 ### JavaScript
 
-Logic  
-& Web
+Logic, DOM  
+& Interactivity
 
 </td>
 
 <td align="center" width="25%">
 
-### Java
+### PHP & Composer
 
-Programming  
-Fundamentals
+Backend &  
+Dependency Management
 
 </td>
 
 <td align="center" width="25%">
 
-### MySQL
+### Database
 
-Database  
-Fundamentals
+MySQL & Efficient  
+Querying
 
 </td>
 
@@ -127,14 +126,14 @@ Fundamentals
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=cpp,php,html,css,js,java,dart,mysql" />
+<img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,cpp,java,mysql,git,vscode" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/VS%20Code-101820?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/Sublime%20Text-101820?style=for-the-badge&logo=sublimetext&logoColor=FF9800"/>
-<img src="https://img.shields.io/badge/Laragon-101820?style=for-the-badge&logo=laragon&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/XAMPP-101820?style=for-the-badge&logo=xampp&logoColor=F0F0F0"/>
+<img src="https://img.shields.io/badge/Composer-101820?style=for-the-badge&logo=composer&logoColor=F88523"/>
+<img src="https://img.shields.io/badge/Git-101820?style=for-the-badge&logo=git&logoColor=F05032"/>
 
 </div>
 
@@ -153,10 +152,9 @@ Fundamentals
 
 <td width="50%" valign="top">
 
-### Toko Sembako
+### Toko Sembako System
 
-Simple web-based  
-inventory / transaction project.
+A web-based sales and inventory management system designed for grocery stores.
 
 `PHP` `MySQL` `HTML` `CSS`
 
@@ -164,12 +162,11 @@ inventory / transaction project.
 
 <td width="50%" valign="top">
 
-### C++ Exercises
+### Laravel Projects
 
-Small programs created while  
-learning programming fundamentals.
+Exploring MVC architecture, routing, and database migration using Laravel.
 
-`C++` `Algorithms` `Logic`
+`Laravel` `PHP` `Tailwind / Bootstrap`
 
 </td>
 
@@ -179,12 +176,11 @@ learning programming fundamentals.
 
 <td width="50%" valign="top">
 
-### College Projects
+### Campus & RPL Projects
 
-Academic projects from my  
-journey as an RPL student.
+Academic projects and logical problem-solving from my journey at Polindra.
 
-`RPL` `Software Engineering`
+`Software Engineering` `Algorithms`
 
 </td>
 
@@ -192,8 +188,7 @@ journey as an RPL student.
 
 ### Coming Soon
 
-More projects, experiments  
-and things I'm currently building.
+More web experiments, features, and full-stack applications in progress.
 
 `Building...`
 
@@ -214,7 +209,7 @@ and things I'm currently building.
 ↓  
 `POLINDRA — RPL`  
 ↓  
-`SOFTWARE ENGINEERING`  
+`WEB DEVELOPMENT & LARAVEL`  
 ↓  
 `SOFTWARE ENGINEER`
 
@@ -237,7 +232,7 @@ and things I'm currently building.
 
 ### Cooking
 
-Trying recipes,  
+Trying new recipes and  
 experimenting in the kitchen.
 
 </td>
@@ -253,10 +248,10 @@ and whatever fits the mood.
 
 <td align="center" width="33%">
 
-### Javanese Culture
+### Culture & History
 
-History, traditions,  
-and cultural heritage.
+Exploring traditional arts,  
+history, and heritage.
 
 </td>
 
@@ -271,20 +266,20 @@ and cultural heritage.
 
 <br>
 
-> **Build strong fundamentals.**  
+> **Write clean code.**  
 > **Solve real problems.**  
 > **Keep building.**
 
 <br>
 
-<img src="https://img.shields.io/badge/PROGRAMMING-101820?style=flat-square&labelColor=123F4D"/>
-<img src="https://img.shields.io/badge/ALGORITHMS-101820?style=flat-square&labelColor=123F4D"/>
+<img src="https://img.shields.io/badge/WEB%20DEV-101820?style=flat-square&labelColor=123F4D"/>
+<img src="https://img.shields.io/badge/LARAVEL-101820?style=flat-square&labelColor=123F4D"/>
 <img src="https://img.shields.io/badge/DATABASE-101820?style=flat-square&labelColor=123F4D"/>
 <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-101820?style=flat-square&labelColor=123F4D"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=8BE9FD&center=true&vCenter=true&width=520&lines=while+(alive)+%7B+learn();+build();+improve();+%7D" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=8BE9FD&center=true&vCenter=true&width=520&lines=while+(alive)+%7B+code();+deploy();+improve();+%7D" />
 
 </div>
 
