@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1220,50:0F3040,100:123F4D&text=ALIEF%20MAULANA&fontSize=60&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=65&descSize=16&animation=fadeIn" width="100%"/>
@@ -36,7 +37,7 @@
 
 <td width="55%" valign="top">
 
-### Hello, World! I'm Maul 
+### Hello, World! I'm Maul
 
 I am a passionate Software Engineering student currently pursuing my studies in **Rekayasa Perangkat Lunak** at **Politeknik Negeri Indramayu (POLINDRA)**. 
 
@@ -48,11 +49,11 @@ My journey revolves around understanding core programming logic, crafting clean 
 
 ### `QUICK FACTS`
 
-* ** Education:** Polindra (RPL)
-* ** Core Focus:** Web Development & Backend
-* ** Current Stack:** Laravel, PHP, MySQL, JS
-* ** Ultimate Goal:** Professional Software Engineer
-* ** Fuel:** Consistency & curiosity
+* **Education:** Polindra (RPL)
+* **Core Focus:** Web Development & Backend
+* **Current Stack:** Laravel, PHP, MySQL, JS
+* **Ultimate Goal:** Professional Software Engineer
+* **Fuel:** Consistency & curiosity
 
 </td>
 
@@ -119,7 +120,7 @@ My journey revolves around understanding core programming logic, crafting clean 
 
 <td width="50%" valign="top">
 
-###  Toko Sembako System
+### Toko Sembako System
 A comprehensive web-based sales and inventory management system designed to streamline grocery store transactions.
 
 `PHP` `MySQL` `HTML` `CSS`
@@ -128,7 +129,7 @@ A comprehensive web-based sales and inventory management system designed to stre
 
 <td width="50%" valign="top">
 
-###  Laravel Exploration
+### Laravel Exploration
 Building modern applications implementing MVC architecture, database migrations, routing, and eloquent ORM.
 
 `Laravel` `PHP` `Tailwind`
