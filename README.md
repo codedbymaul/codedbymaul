@@ -120,7 +120,7 @@ My journey revolves around understanding core programming logic, crafting clean 
 
 <td width="50%" valign="top">
 
-### Toko Sembako System
+### Grocery Store for Ujikom
 A comprehensive web-based sales and inventory management system designed to streamline grocery store transactions.
 
 `PHP` `MySQL` `HTML` `CSS`
